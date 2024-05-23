@@ -29,6 +29,13 @@ class produtoSeeder extends Seeder
                     'foto' => 'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/8a/90/f2.jpg',
                     'user_id' => 1,
                 ],
+                [
+                    'nome'=> 'Ferrari Itália v2',
+                    'descricao'=>'Ferrari para andar no final de semana e ficar parado no posto enquanto as pessoas passam e ficam olhando.',
+                    'valor' => 1300000,
+                    'foto' => 'https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/8a/90/f2.jpg',
+                    'user_id' => 1,
+                ],
             ]
         );
     }

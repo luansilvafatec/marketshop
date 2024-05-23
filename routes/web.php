@@ -35,3 +35,8 @@ function (Request $request) {
 
 })->name('salva-usuario');
 
+
+
+// ------------------PRODUTOS--------------------------
+Route::view('/cadastra-produto', 'cadastra-produto');
+
